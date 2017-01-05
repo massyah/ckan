@@ -1,5 +1,6 @@
 CKAN: The Open Source Data Portal Software
-==========================================
+=========================================
+Customization for a private data portal
 
 .. image:: https://img.shields.io/badge/license-AGPL-blue.svg?style=flat
     :target: https://opensource.org/licenses/AGPL-3.0
